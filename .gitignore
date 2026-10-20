@@ -1,0 +1,6 @@
+reminder.log
+disabled.flag
+build/
+dist/
+*.spec
+__pycache__/
