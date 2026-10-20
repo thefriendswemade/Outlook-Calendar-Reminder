@@ -2,6 +2,10 @@
 
 A small Windows app that pops up a reminder **1 minute before every event** on your Outlook calendar. The popup stays on top of your screen until you dismiss it (or snooze it for 5 minutes), so you don't miss meetings. If it ever can't read Outlook, it shows a red warning instead of failing silently.
 
+<img width="492" height="240" alt="image" src="https://github.com/user-attachments/assets/dc3b7518-502a-4bee-bff7-2013ade255bc" />
+<img width="418" height="230" alt="image" src="https://github.com/user-attachments/assets/94392536-bf4c-4e5d-b83b-4023d99bf044" />
+<img width="398" height="235" alt="image" src="https://github.com/user-attachments/assets/d07abd9a-51bb-4ff9-8df0-d0ccb78efe12" />
+
 **Requires:** Windows 10/11 and **classic Outlook** (the desktop app with File / Home / Send-Receive tabs). The "new Outlook" and Outlook on the web aren't supported. Outlook needs to be open for reminders to work.
 
 ## Install (no Python, no command line)
