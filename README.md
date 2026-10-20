@@ -48,7 +48,7 @@ pip install pyinstaller pywin32
 build.bat
 ```
 
-The result is `dist\OutlookCalendarReminder.exe`. Pushing a tag such as `v1.0.0` builds it automatically on GitHub and attaches it to a Release.
+The result is `dist\OutlookCalendarReminder.exe`.
 
 ## Troubleshooting
 
